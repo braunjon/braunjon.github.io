@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## X
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;X&space;=&space;\begin{pmatrix}&space;x_{11}&space;&&space;x_{12}&space;&&space;\hdots&space;&&space;x_{1m}&space;\\&space;x_{21}&space;&&space;x_{22}&space;&&space;\hdots&space;&&space;x_{2m}&space;\\&space;\vdots&space;&&space;\vdots&space;&&space;\ddots&space;&&space;\vdots&space;\\&space;x_{n1}&space;&&space;x_{n2}&space;&&space;\hdots&space;&&space;x_{nm}&space;\end{pmatrix}&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;X&space;=&space;\begin{pmatrix}&space;x_{11}&space;&&space;x_{12}&space;&&space;\hdots&space;&&space;x_{1m}&space;\\&space;x_{21}&space;&&space;x_{22}&space;&&space;\hdots&space;&&space;x_{2m}&space;\\&space;\vdots&space;&&space;\vdots&space;&&space;\ddots&space;&&space;\vdots&space;\\&space;x_{n1}&space;&&space;x_{n2}&space;&&space;\hdots&space;&&space;x_{nm}&space;\end{pmatrix}&space;\end{align*}" title="\begin{align*} X = \begin{pmatrix} x_{11} & x_{12} & \hdots & x_{1m} \\ x_{21} & x_{22} & \hdots & x_{2m} \\ \vdots & \vdots & \ddots & \vdots \\ x_{n1} & x_{n2} & \hdots & x_{nm} \end{pmatrix} \end{align*}" /></a>
 
-You can use the [editor on GitHub](https://github.com/braunjon/braunjon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;a&space;=&space;\begin{pmatrix}&space;a_{1}&space;\\&space;a_{2}&space;\\&space;\vdots&space;\\&space;a_{n}&space;\end{pmatrix}&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;a&space;=&space;\begin{pmatrix}&space;a_{1}&space;\\&space;a_{2}&space;\\&space;\vdots&space;\\&space;a_{n}&space;\end{pmatrix}&space;\end{align*}" title="\begin{align*} a = \begin{pmatrix} a_{1} \\ a_{2} \\ \vdots \\ a_{n} \end{pmatrix} \end{align*}" /></a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;b&space;=&space;\begin{pmatrix}&space;b_{1}&space;\\&space;b_{2}&space;\\&space;\vdots&space;\\&space;b_{m}&space;\end{pmatrix}&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;b&space;=&space;\begin{pmatrix}&space;b_{1}&space;\\&space;b_{2}&space;\\&space;\vdots&space;\\&space;b_{m}&space;\end{pmatrix}&space;\end{align*}" title="\begin{align*} b = \begin{pmatrix} b_{1} \\ b_{2} \\ \vdots \\ b_{m} \end{pmatrix} \end{align*}" /></a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/braunjon/braunjon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{align*}&space;\frac{\partial&space;a^TXb}{\partial&space;b}&space;&=&space;\frac{\partial}{\partial&space;b}&space;\begin{pmatrix}&space;a_1&space;x_{11}&space;&plus;&space;a_{2}&space;x_{21}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{n1}&space;&&space;a_1&space;x_{12}&space;&plus;&space;a_{2}&space;x_{22}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{n2}&space;&&space;\hdots&space;&&space;a_1&space;x_{1m}&space;&plus;&space;a_{2}&space;x_{2m}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{nm}&space;\end{pmatrix}&space;\begin{pmatrix}&space;b_1&space;\\&space;b_2&space;\\&space;\vdots&space;\\&space;b_m&space;\end{pmatrix}\\&space;&=&space;\frac{\partial}{\partial&space;b}&space;\sum_{i=1}^m&space;b_i&space;\left(\sum_{j=1}^n&space;a_j&space;x_{ji}\right)&space;=&space;\begin{pmatrix}&space;\sum_{j=1}^n&space;a_j&space;x_{j1}&space;\\&space;\sum_{j=1}^n&space;a_j&space;x_{j2}&space;\\&space;\vdots\\&space;\sum_{j=1}^n&space;a_j&space;x_{jm}&space;\end{pmatrix}&space;=&space;X^Ta&space;\end{align*}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\begin{align*}&space;\frac{\partial&space;a^TXb}{\partial&space;b}&space;&=&space;\frac{\partial}{\partial&space;b}&space;\begin{pmatrix}&space;a_1&space;x_{11}&space;&plus;&space;a_{2}&space;x_{21}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{n1}&space;&&space;a_1&space;x_{12}&space;&plus;&space;a_{2}&space;x_{22}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{n2}&space;&&space;\hdots&space;&&space;a_1&space;x_{1m}&space;&plus;&space;a_{2}&space;x_{2m}&space;&plus;&space;...&space;&plus;&space;a_n&space;x_{nm}&space;\end{pmatrix}&space;\begin{pmatrix}&space;b_1&space;\\&space;b_2&space;\\&space;\vdots&space;\\&space;b_m&space;\end{pmatrix}\\&space;&=&space;\frac{\partial}{\partial&space;b}&space;\sum_{i=1}^m&space;b_i&space;\left(\sum_{j=1}^n&space;a_j&space;x_{ji}\right)&space;=&space;\begin{pmatrix}&space;\sum_{j=1}^n&space;a_j&space;x_{j1}&space;\\&space;\sum_{j=1}^n&space;a_j&space;x_{j2}&space;\\&space;\vdots\\&space;\sum_{j=1}^n&space;a_j&space;x_{jm}&space;\end{pmatrix}&space;=&space;X^Ta&space;\end{align*}" title="\begin{align*} \frac{\partial a^TXb}{\partial b} &= \frac{\partial}{\partial b} \begin{pmatrix} a_1 x_{11} + a_{2} x_{21} + ... + a_n x_{n1} & a_1 x_{12} + a_{2} x_{22} + ... + a_n x_{n2} & \hdots & a_1 x_{1m} + a_{2} x_{2m} + ... + a_n x_{nm} \end{pmatrix} \begin{pmatrix} b_1 \\ b_2 \\ \vdots \\ b_m \end{pmatrix}\\ &= \frac{\partial}{\partial b} \sum_{i=1}^m b_i \left(\sum_{j=1}^n a_j x_{ji}\right) = \begin{pmatrix} \sum_{j=1}^n a_j x_{j1} \\ \sum_{j=1}^n a_j x_{j2} \\ \vdots\\ \sum_{j=1}^n a_j x_{jm} \end{pmatrix} = X^Ta \end{align*}" /></a>
